@@ -22,8 +22,8 @@ and get it approved before you start
 
 ``` php
 require __DIR__ . '/vendor/autoload.php';
-use Sydefz\OAuth2\Client\Provider\FreelancerIdentity;
-use Sydefz\OAuth2\Client\Provider\FreelancerIdentityException;
+use Sergphp\OAuth2\Client\Provider\FreelancerIdentity;
+use Sergphp\OAuth2\Client\Provider\FreelancerIdentityException;
 
 $provider = new FreelancerIdentity([
     'clientId' => '<your-client-id>',

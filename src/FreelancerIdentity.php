@@ -1,6 +1,6 @@
 <?php
 
-namespace Sydefz\OAuth2\Client\Provider;
+namespace Sergphp\OAuth2\Client\Provider;
 
 use Exception;
 use BadMethodCallException;

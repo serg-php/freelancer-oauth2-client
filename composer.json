@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
-            "Sydefz\\OAuth2\\Client\\Provider\\": "src/"
+            "Sergphp\\OAuth2\\Client\\Provider\\": "src/"
         }
     }
 }
