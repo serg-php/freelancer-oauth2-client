@@ -1,0 +1,22 @@
+{
+    "name": "serg-php/freelancer-oauth2-client",
+    "description": "Freelancer OAuth 2.0 Client Provider",
+    "type": "package",
+    "require": {
+        "php": ">=8.0.1",
+        "league/oauth2-client": "^2.6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Piven",
+            "email": "sms.0678895000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Sydefz\\OAuth2\\Client\\Provider\\": "src/"
+        }
+    }
+}
