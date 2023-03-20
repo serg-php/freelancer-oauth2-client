@@ -189,9 +189,9 @@ try {
 Via Composer
 
 ``` bash
-$ composer require sydefz/freelancer-oauth2-client -o
+$ composer require serg-php/freelancer-oauth2-client -o
 ```
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/sydefz/freelancer-oauth2-client/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/serg-php/freelancer-oauth2-client/blob/master/LICENSE) for more information.
